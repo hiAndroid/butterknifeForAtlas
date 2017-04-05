@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyBundle</string>
+    <string name="text_first">first bundle</string>
+</resources>
